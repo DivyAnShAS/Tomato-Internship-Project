@@ -1,4 +1,4 @@
-# 🍅 Tomato – Zomato Clone (MERN Stack)
+# 🍅 Tomato(MERN Stack)
 
 A full-stack Zomato clone built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). Tomato simulates a real-world food delivery platform with key features like restaurant listings, authentication, order tracking, location-based search, and more.
 
